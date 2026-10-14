@@ -1,0 +1,5 @@
+boto3>=1.40
+requests>=2.32
+pandas>=2.2
+matplotlib>=3.9
+notebook>=7.2
